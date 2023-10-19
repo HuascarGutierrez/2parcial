@@ -1,0 +1,14 @@
+.photo {
+    position: inherit;
+    width: 98px;
+    height: 98px;
+}
+.back {
+    width: 115px;
+    height: 115px;
+    border-radius: 57.5px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
