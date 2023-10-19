@@ -2,6 +2,7 @@ import './App.css'
 import Items from './components/Items'
 import User from './components/User'
 import Name from './components/Name'
+import Codigo from './components/Codigo'
 function App() {
 
   return (
@@ -9,6 +10,7 @@ function App() {
       <User />
       <Items />
       <Name />
+      <Codigo />
     </>
   )
 }
